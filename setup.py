@@ -21,6 +21,6 @@ setup(
         'Programming Language :: Python',
         'Topic :: Utilities',
     ],
-    packages=['django-jquery'],
-    package_data={'django-jquery': ['static/js/django-jquery/*.js', 'static/js/django-jquery/i18n/*.js']}
+    packages=['django_jquery'],
+    package_data={'django_jquery': ['static/js/django_jquery/*.js', 'static/js/django_jquery/i18n/*.js']}
 )
