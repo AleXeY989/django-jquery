@@ -1,3 +1,4 @@
+
 from setuptools import setup
 
 setup(
@@ -21,6 +22,6 @@ setup(
         'Programming Language :: Python',
         'Topic :: Utilities',
     ],
-    packages=['django_jquery'],
+    packages=['django-jquery'],
     package_data={'django_jquery': ['static/js/django_jquery/*.js', 'static/js/django_jquery/i18n/*.js']}
 )
