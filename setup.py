@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='django-jquery',
-    version='1',
+    version='1.11.1',
     url='http://plugins.jquery.com/djangocsrf/',
     description='Django package for django-jquery: for jQuery',
     author='Baptiste Fontaine',
