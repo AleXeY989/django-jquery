@@ -4,13 +4,13 @@ from setuptools import setup
 setup(
     name='django-jquery',
     version='1.5.10',
-    url='https://github.com/AleXeY989/django-jquery',
+    url='https://github.com/AleXeY989/jquery',
     description='Django package for jquery-colorbox: A lightweight customizable lightbox plugin for jQuery',
     author='Jack Moore',
     maintainer='AleXeY989',
     maintainer_email='alex1chupahin@ya.ru',
     license='MIT License',
-    keywords=['django', 'jquery', 'lightbox', 'staticfiles', 'overlay', 'image'],
+    keywords=['django', 'jquery'],
     platforms='any',
     classifiers=[
         'Development Status :: 5 - Production/Stable',
@@ -23,5 +23,5 @@ setup(
         'Topic :: Utilities',
     ],
     packages=['django-jquery'],
-    package_data={'django_jquery': ['static/js/django_jquery/*.js', 'static/js/django_jquery/i18n/*.js']}
+    package_data={'django_jquery': ['static/js/django_jquery/*.js']}
 )
