@@ -4,9 +4,9 @@ from setuptools import setup
 setup(
     name='django-jquery',
     version='1',
-    url='https://github.com/AleXeY989/django-jquery',
+    url='http://plugins.jquery.com/djangocsrf/',
     description='Django package for django-jquery: for jQuery',
-    author='Ilnaz Shagvaliev',
+    author='Baptiste Fontaine',
     maintainer='AleXeY989',
     maintainer_email='alex1chupahin@ya.ru',
     license='MIT License',
