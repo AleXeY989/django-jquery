@@ -6,7 +6,7 @@ setup(
     version='1',
     url='https://github.com/AleXeY989/django-jquery',
     description='Django package for django-jquery: for jQuery',
-    author='Jack Moore',
+    author='Ilnaz',
     maintainer='AleXeY989',
     maintainer_email='alex1chupahin@ya.ru',
     license='MIT License',
